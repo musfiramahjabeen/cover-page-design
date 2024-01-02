@@ -5,6 +5,7 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
+
 Fork your the repository to your repository 
 ### Step 2:
 Now using the command "django-admin startproject myproj" start a django project named myproj
@@ -138,9 +139,5 @@ Using the command runserver, run your server and then access the static and html
 
 ## Output:
 ![Screenshot 2023-12-24 141547](https://github.com/musfiramahjabeen/cover-page-design/assets/138971008/0d6c3711-c9c1-4b14-9d89-f04857645b4f)
-
-
-
-
 ## Result:
 Successfully the Cover page of the book is designed using HTML and CSS.
